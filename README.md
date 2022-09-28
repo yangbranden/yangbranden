@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center"> Hi there! I'm Branden! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<!--
-**yangbranden/yangbranden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/branden-yang/">
+  <img width="40px" title="LinkedIn" src="https://www.svgrepo.com/show/157006/linkedin.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/branden-yang/">
+  <img width="40px" title="Personal Website" src="https://www.svgrepo.com/show/193271/browser-website.svg"/>
+</a>
+</p>
 
-Here are some ideas to get you started:
+<br>
+<img align="right" src="https://i.pinimg.com/originals/67/4b/3e/674b3e051909840d88dcce4e6c04cb94.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- I am currently a CS undergrad student at ASU Barrett.
+- I love learning about cybersecurity and information technology!
+- I have a passion for game development and design!
+- I am published on the iOS App Store! You can view my games <a href="https://apps.apple.com/us/developer/branden-yang/id1198421417">here</a>.
+- I am also learning Korean! 안녕하세요? 제 이름은 브랜든입니다!
