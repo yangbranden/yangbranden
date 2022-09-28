@@ -2,10 +2,11 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/branden-yang/">
-  <img width="40px" title="LinkedIn" src="https://www.svgrepo.com/show/157006/linkedin.svg"/>
+  <img height="30px" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/branden-yang/">
-  <img width="40px" title="Personal Website" src="https://www.svgrepo.com/show/193271/browser-website.svg"/>
+&emsp;
+<a href="https://yangbranden.github.io/">
+  <img height="30px" title="Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 </p>
 
@@ -18,3 +19,4 @@
 - I have a passion for game development and design!
 - I am published on the iOS App Store! You can view my games <a href="https://apps.apple.com/us/developer/branden-yang/id1198421417">here</a>.
 - I am also learning Korean! 안녕하세요? 제 이름은 브랜든입니다!
+- Feel free to email me at yang.branden@gmail.com if you have any questions :)
