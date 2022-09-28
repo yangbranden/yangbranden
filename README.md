@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Hi there! I'm Branden! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<!--
-**yangbranden/yangbranden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://yangbranden.github.io/">
+  <img height="30px" title="Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+</p>
 
-Here are some ideas to get you started:
+<br>
+<img align="right" src="https://i.pinimg.com/originals/67/4b/3e/674b3e051909840d88dcce4e6c04cb94.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- I like learning about computers n stuff
