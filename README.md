@@ -14,7 +14,7 @@
 <img align="right" src="https://i.pinimg.com/originals/67/4b/3e/674b3e051909840d88dcce4e6c04cb94.gif"/>
 
 ### About Me
-- I am currently a CS undergrad student at ASU Barrett.
+- I'm currently an undergraduate CS student at ASU Barrett.
 - I love learning about cybersecurity and information technology!
 - I have a passion for game development and design!
 - I am published on the iOS App Store! You can view my games <a href="https://apps.apple.com/us/developer/branden-yang/id1198421417">here</a>.
