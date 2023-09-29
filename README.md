@@ -16,6 +16,6 @@
 ### About Me
 - I'm currently an undergraduate CS student at ASU Barrett.
 - I love learning about cybersecurity and information technology!
-- I have a passion for game development and design!
+- I am CompTIA Security+ and CCNA certified.
 - I am also learning Korean! 안녕하세요? 제 이름은 브랜든입니다!
 - Feel free to email me at yang.branden@gmail.com if you have any questions :)
