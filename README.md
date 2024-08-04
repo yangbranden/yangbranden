@@ -14,8 +14,8 @@
 <img align="right" src="https://i.pinimg.com/originals/67/4b/3e/674b3e051909840d88dcce4e6c04cb94.gif"/>
 
 ### About Me
-- I'm currently an undergraduate CS student at ASU Barrett.
-- I love learning about cybersecurity and information technology!
+- I'm currently an M.S. Computer Science student at ASU.
+- I love learning about cybersecurity and technology!
 - I am CompTIA Security+ and CCNA certified.
 - I am also learning Korean! 안녕하세요? 제 이름은 브랜든입니다!
 - Feel free to email me at yang.branden@gmail.com if you have any questions :)
