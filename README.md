@@ -17,5 +17,5 @@
 - I'm a recent M.S. Computer Science (Cybersecurity concentration) graduate from ASU.
 - I love learning about cybersecurity, computer networking, and software security!
 - I am CompTIA Security+ and CCNA certified.
-- I am also learning Korean! 안녕하세요? 제 이름은 브랜든입니다!
+- I am also learning Korean! 안녕하세요? 제 이름은 브랜든이에요!
 - Feel free to email me at yang.branden@gmail.com if you have any questions :)
